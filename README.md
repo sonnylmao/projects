@@ -1,4 +1,4 @@
-# 🌟projects🌟
+# 🌟mini-projects🌟
  >here are all the coding projects i did in my freetime! 
  everything is listed in chronological order (more info for each project can be found in the README file in the specific folder)
 ---
