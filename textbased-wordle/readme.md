@@ -4,7 +4,8 @@
 ---
 <h2><b>Versions:</b></h2>
 <h3><b>v1.0 - (16th February 2022)</b></h3>
-<p>>  This simple program takes a randomly generated word from the wordle answer list which can be found [here][1]</p>
+<p>>  This simple program takes a randomly generated word from the wordle answer list which can be found on https://www.nytimes.com/games/wordle/main.7785bdf7.js
+</p>
 <p>> I know this needs a lot of work so stay tuned for updates!</p>
 
 ---
