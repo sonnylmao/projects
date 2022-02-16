@@ -12,9 +12,15 @@
 
 ---
 <h2><b>2. zoomlinks.py</b></h2>
-<h4>completed✅: March 28th, 2021</h3></h4>
+<h4>completed✅: March 28th, 2021</h4>
 <p>🔥a project based off tkinter to compile all my zoom classes into a single app🔥</p>
 <img src="https://i.postimg.cc/RCYGrJHZ/zoomlinkss.png" width="140">
+
 <p><i>(self-inspired project)</i></p>
 
 ---
+<h2><b>3. wordle.py</b></h2>
+<h4>completed✅: February 16th, 2022</h4>
+<p>☄️a very simple text-based wordle made for a mini-school project☄️</p>
+
+<p><i>(based off New York Times' Wordle)</i></p>
